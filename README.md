@@ -28,6 +28,9 @@
   <a href="mailto:talhafahimfaisal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+   <a href="https://app.daily.dev/fahimfaisaltalha">
+    <img src="https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" />
+  </a>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Tech Stack
