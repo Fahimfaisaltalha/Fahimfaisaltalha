@@ -1,75 +1,66 @@
-<h1 align="center" style="color: #4CAF50;">Hi, I'm Fahim Faisal Talha 👋</h1>
-<h3 align="center" style="font-style: italic; color: #2196F3;">A passionate CSE student from Bangladesh</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="250px" alt="Gif"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1000">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2C+I'm+Fahim+Faisal+%F0%9F%91%8B;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🚀 **Full Stack Developer**  
+- 💻 Passionate about building **scalable** and **robust** web applications that deliver exceptional user experiences.
+- 💬 Expertise in **Laravel, MySQL, Vue.js, Inertia.js**
+- 📫 Reach me at **talhafahimfaisal@gmail.com**
+- <img src="https://komarev.com/ghpvc/?username=Fahimfaisaltalha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+
+<div align="left">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Let's Connect!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fahim-faisal-talha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/Fahimfaisaltalha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="mailto:talhafahimfaisal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
-<p align="center">
-  🌱 I’m currently learning **Backend Development**, **Machine Learning**, and **Web Development**  
-</p>
-<p align="center">
-  👨‍💻 Check out my projects on [GitHub](https://github.com/FahimFaisalTalha)  
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Tech Stack
 
-### 💬 Ask me about:
-<p align="center">
-  <span style="font-weight: bold;">Python</span>, 
-  <span style="font-weight: bold;">Django</span>, 
-  <span style="font-weight: bold;">JavaScript</span>, 
-  <span style="font-weight: bold;">HTML</span>, 
-  <span style="font-weight: bold;">CSS</span>, 
-  <span style="font-weight: bold;">SQL</span>, 
-  <span style="font-weight: bold;">Data Analytics</span>
-</p>
+### 💻 Programming Languages
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 
-<p align="center">
-  📫 You can reach me via email: **fahimfaisaltalha@gmail.com**
-</p>
 
----
+### 🎨 Frontend Development
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=black)
+![Inertia](https://img.shields.io/badge/-Inertia-9553E9?style=flat-square&logo=inertia&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🌟 Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahimfaisaltalha/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-F00?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/FahimFaisalTalha" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/fahimfaisal_talha/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/channel/uc0jospamwhg5j9sj4sgtbzw" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
 
----
+### ⚙️ Backend Development
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=black)
 
-### 🛠️ Technologies and Tools:
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
----
+### 🗄️ Databases & Storage
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+
+### 🔧 Tools & Environments
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 
 ### 📊 GitHub Stats:
 
