@@ -1,21 +1,17 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22176
-Fork on GitHub
-7109
+<h1 align="center" style="font-size: 3em; color: #4CAF50; animation: fadeIn 2s ease-in;">Hi 👋, I'm Fahim Faisal Talha</h1>  
+<h3 align="center" style="font-style: italic; color: #555; animation: slideIn 3s ease-out;">A passionate frontend developer from Bangladesh</h3>
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Fahim Faisal Talha</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh..</h3>
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  @keyframes slideIn {
+    from { transform: translateY(30px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+</style>
 
 - 🔭 I’m currently working on [Running](#)
 
