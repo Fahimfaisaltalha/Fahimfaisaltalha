@@ -77,13 +77,6 @@
 
 ---
 
-### 📈 Contribution Graph:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimFaisalTalha&theme=react-dark" alt="GitHub Contribution Graph" width="100%" />
-</div>
-
----
-
 ### 🙌 Thank you for visiting my profile! Feel free to connect with me and explore my work! 🚀
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Thank You" width="250" />
