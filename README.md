@@ -68,8 +68,12 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahimFaisalTalha&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="450" />
-</div>
+<p align="center">
+<img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=Fahimfaisaltalha&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimfaisaltalha&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahimfaisaltalha&theme=react-dark&hide_border=true&area=true" width="90%">
+</p>
+</div> 
 
 ---
 
