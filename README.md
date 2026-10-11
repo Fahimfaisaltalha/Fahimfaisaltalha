@@ -1,83 +1,119 @@
-<div align="center">
-<h1 align="left">Fahim Faisal Talha</h1>
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1000">
+<h1 align="center">Fahim Faisal Talha</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2C+I'm+Fahim+Faisal+%F0%9F%91%8B;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🚀 **Full Stack Developer**  
-- 💻 Passionate about building **scalable** and **robust** web applications that deliver exceptional user experiences.
-- 💬 Expertise in **Laravel, MySQL, Vue.js, Inertia.js**
-- 📫 Reach me at **talhafahimfaisal@gmail.com**
-- <img src="https://komarev.com/ghpvc/?username=Fahimfaisaltalha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-
-<div align="left">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Let's Connect!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/fahim-faisal-talha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://github.com/Fahimfaisaltalha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="mailto:talhafahimfaisal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-   <a href="https://app.daily.dev/fahimfaisaltalha">
-    <img src="https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" alt="Daily.dev" />
-  </a>
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Tech Stack
-
-### 💻 Programming Languages
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-
-
-### 🎨 Frontend Development
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=black)
-![Inertia](https://img.shields.io/badge/-Inertia-9553E9?style=flat-square&logo=inertia&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-
-
-### ⚙️ Backend Development
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=black)
-
-
-### 🗄️ Databases & Storage
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-
-### 🔧 Tools & Environments
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-
-### 📊 GitHub Stats:
-
-<div align="center">
 <p align="center">
-<img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=Fahimfaisaltalha&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimfaisaltalha&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" alt="Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahimfaisaltalha&theme=react-dark&hide_border=true&area=true" width="90%">
+  <b>SQA Engineer</b> &nbsp;|&nbsp; Manual & API Testing &nbsp;|&nbsp; Test Automation &nbsp;|&nbsp; Laravel / PHP Developer
 </p>
-</div> 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahim-faisal-talha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:talhafahimfaisal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://app.daily.dev/fahimfaisaltalha"><img src="https://img.shields.io/badge/daily.dev-0E1217?style=for-the-badge" alt="daily.dev" /></a>
+</p>
 
 ---
 
-### 🙌 Thank you for visiting my profile! Feel free to connect with me and explore my work! 🚀
+## About Me
+
+I'm a **Software Quality Assurance engineer** with a strong **web development background**. I design test cases, validate APIs, report defects clearly, and automate repeatable checks. Because I also build applications in **Laravel and PHP**, I understand how software is made, which helps me find issues earlier and write more useful bug reports.
+
+- 🧪 Focused on **SQA, API testing, and test automation**
+- 🛠️ Experienced with **Laravel, MySQL, Vue.js, and Inertia.js**
+- 🎓 B.Sc. in Computer Science & Engineering, **Daffodil International University** (CGPA 3.80)
+- 📄 Research accepted at **IEEE WIECON-ECE 2025**
+- 📫 Open to **SQA / QA Engineer** opportunities: **talhafahimfaisal@gmail.com**
+
+---
+
+## What I Do
+
+| Area | Details |
+|---|---|
+| **Manual Testing** | Test case design, functional and non-functional testing, regression, smoke, sanity, UI, UAT, exploratory testing, BVA, equivalence partitioning |
+| **API Testing** | Postman collections covering GET, POST, PATCH and DELETE, with positive, negative and boundary scenarios |
+| **Automation** | Playwright and Selenium for UI test automation |
+| **Defect Management** | Clear bug reports with severity, priority, reproduction steps, and expected vs. actual results |
+| **Development** | Laravel, PHP, MySQL, Vue.js, Inertia.js, Tailwind CSS, Bootstrap |
+
+---
+
+## My Testing Workflow
+
+```mermaid
+flowchart LR
+    A[Understand Requirements] --> B[Design Test Cases]
+    B --> C[Execute Tests]
+    C --> D[Report Defects]
+    D --> E[Retest and Regression]
+    E --> F[Automate Repeatable Checks]
+```
+
+<details>
+<summary><b>How I write a bug report</b></summary>
+
+<br>
+
+| Field | What I include |
+|---|---|
+| **Title** | Short, specific summary of the problem |
+| **Environment** | Browser, device, OS, build or version |
+| **Severity / Priority** | Impact on the system vs. urgency to fix |
+| **Steps to Reproduce** | Numbered, minimal and repeatable |
+| **Expected Result** | What should happen according to the requirement |
+| **Actual Result** | What really happens |
+| **Evidence** | Screenshot, screen recording, logs, or API response |
+
+</details>
+
+---
+
+## Tech Stack
+
+**Testing & QA**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
+![Qase](https://img.shields.io/badge/Qase-4F46E5?style=flat-square)
+
+**Languages, Web, Databases & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,py,java,c,laravel,vue,tailwind,bootstrap,html,css,mysql,postgres,mongodb,git,github,vscode,figma,postman&perline=10" alt="Tech stack icons" />
+</p>
+
+**AI Tools:** OpenAI · Gemini · Claude Code · Codex · Open Code
+
+---
+
+## Experience
+
+**System Engineer (QC) Intern** · Crystal Future Venture Ltd · *Jul 2026 – Sep 2026*
+- Prepared QC reports, identified quality issues, and coordinated with field teams for rectification and resubmission
+- Verified pre- and post-installation site photos against Grameenphone quality standards
+- Inspected telecom site documentation and installation evidence for accuracy
+
+---
+
+## Currently Growing
+
+- 🎯 Building stronger **Playwright** automation suites
+- 📚 Preparing for **ISTQB Foundation Level**
+- ⚙️ Learning **CI/CD basics** to run automated tests in pipelines
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Thank You" width="250" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fahimfaisaltalha&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimfaisaltalha&theme=algolia&hide_border=true&layout=compact" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Quality is not an act, it is a habit. Let's build reliable software together.</i>
 </p>
